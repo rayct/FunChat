@@ -1,4 +1,4 @@
-# Flutter Funchat Mobile App for iOS
+# Funchat A Flutter Mobile App for iOS
 
 A Chat Messaging App For iOS made with Flutter, Firebase,using the Stream Chat API.
 
